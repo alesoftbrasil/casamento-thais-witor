@@ -209,3 +209,26 @@ footer p { margin: 0; color: var(--rose-dark); font-family: "Cormorant Garamond"
   }
   h1 { font-size: 3.3rem; }
 }
+
+.pix-section{text-align:center;margin:28px auto}.pix-section p{margin-bottom:12px}.pix-btn{background:#d4af37;color:#222;border:none;padding:12px 22px;border-radius:10px;cursor:pointer;font-size:18px} .pix-btn small{font-size:12px;}
+
+.pix-qrcode {
+  display: block;
+  width: min(220px, 70vw);
+  height: auto;
+  margin: 16px auto 12px;
+  padding: 10px;
+  border: 1px solid rgba(199, 162, 74, .35);
+  border-radius: 18px;
+  background: #fff;
+}
+.pix-key {
+  margin: 8px 0 10px;
+  color: var(--ink);
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+}
+.pix-btn {
+  min-width: 190px;
+}
